@@ -5,7 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import Counter from './Components/counter';
 // import Counters from './Components/counters';
-import 'bootstrap/dist/css/bootstrap.css'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
